@@ -4,7 +4,7 @@ A personal use inteded facebook messenger bot that takes commands to interface w
 
   - Send a command to the bot on messenger
   - Replies with what you want from reddit
-  - 
+
  ![img](https://raw.githubusercontent.com/jml63/Reddit-on-Messenger/master/ss1.png) ![img](https://raw.githubusercontent.com/jml63/Reddit-on-Messenger/master/ss2.png)
 
 ### Tech
@@ -22,7 +22,7 @@ Also used is [Pythonanywhere] to host the backend and [Facebook for Developers] 
 
 Setup an app and page for the bot on [Facebook for Developers] and setup webhooks and tokens.
 Setup an app on [Reddit] to get a client_id and client_secret for [Praw].
-Host the code locally or on a service like [Pythonanywhere].
+Host the code locally or on a service like [Pythonanywhere] with dependencies installed.
 
 The current hardcoded commands are:
 !reddit : returns usage information
